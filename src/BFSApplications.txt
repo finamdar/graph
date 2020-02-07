@@ -1,0 +1,14 @@
+Applications of BFS:
+1. Shortest path and minimum spanning tree - in an unweighted tree the shortest path is 
+with the least number of vertices
+2. Peer to Peer network identification - like in bittorrent
+3. Crawlers in search engine
+4. Social networking websites - finding all people  within a given distance k
+5. gps navigation
+6. broadcasting network
+7. garbage collection
+8. cycle detection in undirected graph
+9. path finding - although, DFS can also be used for this.
+10. finding all nodes within 1 connected component - DFS or BFS can be used to find all nodes that are reachable
+from the given node.
+11. ford fulkerson algo

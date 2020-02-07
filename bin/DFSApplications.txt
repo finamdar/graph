@@ -1,0 +1,9 @@
+Applications of DFS:
+ 1. For weighted graph, minimum spanning tree and all pair shortest path tree
+ 2. detecting cycle in graph
+ 3. path finding from source to destination - use a stack, add the source and keep traversing the graph, 
+ if the destination is encountered return the path
+ 4. topological sorting
+ 5. check if the graph is bipartite
+ 6. finding strongly connected graphs
+ 7. solving puzzles with 1 solution
